@@ -11,7 +11,7 @@
 </td>
 <td>
     <img src="https://skillicons.dev/icons?i=discord,obsidian,github,gitlab" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,ts,java" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,ts,java,php" /> <br>
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,idea" /> <br>
     <img src="https://skillicons.dev/icons?i=linux,windows" />
 </td>
